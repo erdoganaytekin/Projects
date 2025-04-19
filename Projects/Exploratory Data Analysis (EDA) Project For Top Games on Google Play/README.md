@@ -37,8 +37,3 @@ Mobile apps are everywhere. They are easy to create and can be lucrative. Becaus
 The data used in this project consists of the following file:
 
 - [androidgames.csv](https://www.kaggle.com/datasets/dhruvildave/top-play-store-games/code?datasetId=1260671&sortBy=voteCount): contains all the details of the applications on Google Play. There are 15 features that describe a given app.
-
-
-## Exploratory Data Analysis (EDA) Project For Top Games on Google Play
-
-[GitHub Link for EDA Project](https://github.com/huseyincenik/data_science/tree/main/Projects/Exploratory%20Data%20Analysis%20(EDA)%20Project%20For%20Top%20Games%20on%20Google%20Play)
