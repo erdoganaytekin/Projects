@@ -78,7 +78,3 @@ This project is open-source and open to all contributions. If you'd like to cont
 4. Push to your branch: `git push origin new-feature`
 5. Open a Pull Request.
 
-## Contact
-
-For any questions, suggestions, or feedback, please reach out to us at [huseyinceniik@gmail.com](mailto:email@example.com).
-
